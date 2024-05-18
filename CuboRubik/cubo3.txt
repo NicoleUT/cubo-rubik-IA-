@@ -1,0 +1,24 @@
+U:
+R R R
+W W W
+W W W
+D:
+Y Y Y
+Y Y Y
+R R R
+F:
+B B B
+G G G
+G G G
+B:
+B B G
+B B G
+B B G
+L:
+Y Y Y
+O O O
+O O O
+R:
+O O O
+R R R
+W W W
